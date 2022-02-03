@@ -1,5 +1,5 @@
 Moble testing Android
-HW_1
+HW_1 ToDoList
 
 1) Собрать приложение на эмуляторе
 2) Собрать приложение на реальном телефоне
@@ -9,7 +9,7 @@ HW_1
 6) Создать Rergression чеклист для прооверки приложения ToDo List
 7) Создать End-to-End сценарии тестирования приложения ToDo List
 
-Решение в Гугл Таблицах : https://docs.google.com/spreadsheets/d/1FBBLWftwrdHx4LGsmok4EqCRNKOLvdBHXzr9i1yHM34/edit?usp=sharing
+Решение в Гугл Таблицах : https://docs.google.com/spreadsheets/d/1FBBLWftwrdHx4LGsmok4EqCRNKOLvdBHXzr9i1yHM34/
 
 Moble testing Reminder_Android_app
 HW_2
@@ -22,4 +22,4 @@ HW_2
 6) Создать Rergression чеклист для прооверки приложения Reminder
 7) Создать End-to-End сценарии тестирования приложения Reminder
 
-Решение в Гугл Таблицах : https://docs.google.com/spreadsheets/d/1qQ6LEivIDP8yzZT7AGZSrm6jy0AXF_wlM2erlIPDjsc/edit#gid=0
+Решение в Гугл Таблицах : https://docs.google.com/spreadsheets/d/1qQ6LEivIDP8yzZT7AGZSrm6jy0AXF_wlM2erlIPDjsc/
