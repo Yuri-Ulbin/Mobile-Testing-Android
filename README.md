@@ -12,7 +12,7 @@ HW_1 ToDoList
 Решение в Гугл Таблицах : https://docs.google.com/spreadsheets/d/1FBBLWftwrdHx4LGsmok4EqCRNKOLvdBHXzr9i1yHM34/
 
 Moble testing Reminder_Android_app
-HW_2
+HW_2 Reminder
 
 1) Собрать приложение на эмуляторе
 2) Собрать приложение на реальном телефоне
