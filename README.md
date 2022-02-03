@@ -21,3 +21,5 @@ HW_2
 5) Создать Smoke чеклист для проверки приложения Reminder
 6) Создать Rergression чеклист для прооверки приложения Reminder
 7) Создать End-to-End сценарии тестирования приложения Reminder
+
+Решение в Гугл Таблицах : https://docs.google.com/spreadsheets/d/1qQ6LEivIDP8yzZT7AGZSrm6jy0AXF_wlM2erlIPDjsc/edit#gid=0
